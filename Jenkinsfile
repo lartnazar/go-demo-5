@@ -14,7 +14,7 @@ pipeline {
     }      
   }
   environment {
-    image = "/go-demo-5"
+    image = "lartnazar/go-demo-5"
     project = "go-demo-5"
     domain = ""
     cmAddr = "cm."
